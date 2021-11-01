@@ -1,0 +1,14 @@
+Deploying to Heroku
+--------------------
+
+Create Heroku Account
+
+install heroku cli
+
+RUN heroku login
+
+RUN heroku create my-weather-app to create a new app in heroku
+
+initialize git repo and commit ur changes
+
+git push heroku master
