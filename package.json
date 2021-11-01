@@ -19,9 +19,11 @@
   },
   "homepage": "https://github.com/Altamashattari/api-proxy-server#readme",
   "dependencies": {
+    "apicache": "^1.6.3",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "express-rate-limit": "^5.5.0",
     "needle": "^3.0.0"
   },
   "devDependencies": {
